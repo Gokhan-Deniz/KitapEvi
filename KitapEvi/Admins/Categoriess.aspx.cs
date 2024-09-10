@@ -11,7 +11,7 @@ namespace KitapEvi.Admins
 {
     public partial class Categoriess : System.Web.UI.Page
     {
-        string connectionString = "Data Source=DESKTOP-H7FAETO\\SQLEXPRESS;Initial Catalog=KitapEvim;Integrated Security=True;";
+        string connectionString = "Data Source= ;Initial Catalog=KitapEvim;Integrated Security=True;";//bağlantı için source gir
 
         protected void Page_Load(object sender, EventArgs e)
         {

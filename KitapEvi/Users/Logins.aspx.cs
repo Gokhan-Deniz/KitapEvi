@@ -21,8 +21,8 @@ namespace KitapEvi.Users
             string email = txtEmail.Text.Trim();
             string password = txtPassword.Text.Trim();
             string hashedPassword = HashPassword(password);
-
-            using (SqlConnection conn = new SqlConnection("Data Source=DESKTOP-H7FAETO\\SQLEXPRESS;Initial Catalog=KitapEvim;Integrated Security=True;"))
+            //kaynak girmeyi unutmaaa
+            using (SqlConnection conn = new SqlConnection("Data Source= ;  Initial Catalog=KitapEvim;Integrated Security=True;"))
             {
                 conn.Open();
                 string query = "SELECT Name, Email, Role FROM Users WHERE Email = @Email AND Password = @Password";

@@ -27,8 +27,8 @@ namespace KitapEvi.Users
                 return;
             }
 
-            // Insert the user into the database
-            using (SqlConnection conn = new SqlConnection("Data Source=DESKTOP-H7FAETO\\SQLEXPRESS;Initial Catalog=KitapEvim;Integrated Security=True;"))
+            // kaynak girmeyi unutmaaaa
+            using (SqlConnection conn = new SqlConnection("Data Source= ;  Initial Catalog=KitapEvim;Integrated Security=True;"))
             {
                 conn.Open();
                 string query = "INSERT INTO Users (Name, Email, Password, Role) VALUES (@Name, @Email, @Password, @Role)";

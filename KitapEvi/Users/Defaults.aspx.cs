@@ -15,7 +15,7 @@ namespace KitapEvi.Users
     public partial class Defaults : System.Web.UI.Page
     {
         // Veritabanı bağlantı dizesi
-        string connectionString = "Data Source=DESKTOP-H7FAETO\\SQLEXPRESS;Initial Catalog=KitapEvim;Integrated Security=True;";
+        string connectionString = "Data Source= ;Initial Catalog=KitapEvim;Integrated Security=True;";//bağlantı için source gir
 
         protected void Page_Load(object sender, EventArgs e)
         {

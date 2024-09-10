@@ -35,8 +35,8 @@ namespace KitapEvi.Users
         private void LoadUserProfile()
         {
             string email = Session["Email"].ToString();
-
-            using (SqlConnection conn = new SqlConnection("Data Source=DESKTOP-H7FAETO\\SQLEXPRESS;Initial Catalog=KitapEvim;Integrated Security=True;"))
+            //kaynak girmeyi unutmaaaa
+            using (SqlConnection conn = new SqlConnection("Data Source=  ;  Initial Catalog=KitapEvim;Integrated Security=True;"))
             {
                 conn.Open();
                 string query = "SELECT Name, Email FROM Users WHERE Email = @Email";
