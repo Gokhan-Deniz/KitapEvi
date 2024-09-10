@@ -1,0 +1,134 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Users.master.cs" Inherits="KitapEvi.Users.Users" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Site Metas -->
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <link rel="shortcut icon" href="../TemplateFiles/images/favicon.png" type="image/x-icon">
+
+    <title>KitapEvim</title>
+
+
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" type="text/css" href="../TemplateFiles/css/bootstrap.css" />
+    <!--owl slider stylesheet -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+
+    <!-- font awesome style -->
+    <link href="../TemplateFiles/css/font-awesome.min.css" rel="stylesheet" />
+
+    <!-- Custom styles for this template -->
+    <link href="../TemplateFiles/css/style.css" rel="stylesheet" />
+    <!-- responsive style -->
+    <link href="../TemplateFiles/css/responsive.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+        <footer class="footer_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-lg-4 footer-col">
+                <div class="footer_detail">
+                    <h4>
+                        Hakkımızda
+                    </h4>
+                    <p>
+                        Bizler KitapEvim olarak sizlere online olarak kitap alıp okuma imkanı sunan ve bu hizmetleri sağlayan platformuz.
+                    </p>
+                    <div class="footer_social">
+                        <a href="">
+                            <i class="fa fa-facebook" aria-hidden="true"></i>
+                        </a>
+                        <a href="">
+                            <i class="fa fa-twitter" aria-hidden="true"></i>
+                        </a>
+                        <a href="">
+                            <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                        <a href="">
+                            <i class="fa fa-instagram" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8 col-lg-4 footer-col">
+                <div class="footer_contact">
+                    <h4>
+                        İletişim
+                    </h4>
+                    <div class="contact_link_box">
+                        <a href="">
+                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                            <span>
+                                Lokasyon
+                            </span>
+                        </a>
+                        <a href="">
+                            <i class="fa fa-phone" aria-hidden="true"></i>
+                            <span>
+                                Telefon No: +90 5555555555
+                            </span>
+                        </a>
+                        <a href="">
+                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            <span>
+                                Email: örnek@gmail.com
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8 col-lg-4 footer-col">
+                <div class="footer_contact">
+                    <h4>
+                        Abone olmak isterseniz
+                    </h4>
+                    <form action="#">
+                        <input type="text" placeholder="Email" />
+                        <button type="submit">
+                            Abone Ol
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+    
+    </form>
+
+    <!-- jQery -->
+<script src="../TemplateFiles/js/jquery-3.4.1.min.js"></script>
+<!-- popper js -->
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+</script>
+<!-- bootstrap js -->
+<script src="../TemplateFiles/js/bootstrap.js"></script>
+<!-- owl slider -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
+</script>
+<!-- custom js -->
+<script src="../TemplateFiles/js/custom.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+
+</body>
+</html>

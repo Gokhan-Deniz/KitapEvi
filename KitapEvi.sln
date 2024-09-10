@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitapEvi", "KitapEvi\KitapEvi.csproj", "{AE39ED5F-6147-46AE-B774-8060B1A3E026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE39ED5F-6147-46AE-B774-8060B1A3E026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE39ED5F-6147-46AE-B774-8060B1A3E026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE39ED5F-6147-46AE-B774-8060B1A3E026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE39ED5F-6147-46AE-B774-8060B1A3E026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C00C146-3B6B-4FAF-8E2B-EFEB0F785AD4}
+	EndGlobalSection
+EndGlobal

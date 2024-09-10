@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|c:\\users\\sjori\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r\\kitapevi\\kitapevi\\users\\carts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|solutionrelative:kitapevi\\users\\carts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|c:\\users\\sjori\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r\\kitapevi\\kitapevi\\users\\profiles.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|solutionrelative:kitapevi\\users\\profiles.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|c:\\users\\sjori\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r\\kitapevi\\kitapevi\\users\\defaults.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|solutionrelative:kitapevi\\users\\defaults.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\kitapevi\\users\\books.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|solutionrelative:kitapevi\\users\\books.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|c:\\users\\sjori\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r\\kitapevi\\kitapevi\\users\\carts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|solutionrelative:kitapevi\\users\\carts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|c:\\users\\sjori\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r\\kitapevi\\kitapevi\\users\\defaults.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|solutionrelative:kitapevi\\users\\defaults.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\kitapevi\\users\\profiles.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|solutionrelative:kitapevi\\users\\profiles.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|c:\\users\\sjori\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r\\kitapevi\\kitapevi\\users\\books.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|solutionrelative:kitapevi\\users\\books.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\kitapevi\\users\\logins.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|solutionrelative:kitapevi\\users\\logins.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\kitapevi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AE39ED5F-6147-46AE-B774-8060B1A3E026}|KitapEvi\\KitapEvi.csproj|solutionrelative:kitapevi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profiles.aspx",
+              "DocumentMoniker": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Profiles.aspx",
+              "RelativeDocumentMoniker": "KitapEvi\\Users\\Profiles.aspx",
+              "ToolTip": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Profiles.aspx",
+              "RelativeToolTip": "KitapEvi\\Users\\Profiles.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-10T09:20:16.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Defaults.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Defaults.aspx.cs",
+              "RelativeDocumentMoniker": "KitapEvi\\Users\\Defaults.aspx.cs",
+              "ToolTip": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Defaults.aspx.cs",
+              "RelativeToolTip": "KitapEvi\\Users\\Defaults.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:19:11.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Defaults.aspx",
+              "DocumentMoniker": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Defaults.aspx",
+              "RelativeDocumentMoniker": "KitapEvi\\Users\\Defaults.aspx",
+              "ToolTip": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Defaults.aspx",
+              "RelativeToolTip": "KitapEvi\\Users\\Defaults.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-10T09:19:08.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carts.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Carts.aspx.cs",
+              "RelativeDocumentMoniker": "KitapEvi\\Users\\Carts.aspx.cs",
+              "ToolTip": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Carts.aspx.cs",
+              "RelativeToolTip": "KitapEvi\\Users\\Carts.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:44:09.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Books.aspx",
+              "DocumentMoniker": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Books.aspx",
+              "RelativeDocumentMoniker": "KitapEvi\\Users\\Books.aspx",
+              "ToolTip": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Books.aspx",
+              "RelativeToolTip": "KitapEvi\\Users\\Books.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-10T07:01:54.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Books.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Books.aspx.cs",
+              "RelativeDocumentMoniker": "KitapEvi\\Users\\Books.aspx.cs",
+              "ToolTip": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Books.aspx.cs",
+              "RelativeToolTip": "KitapEvi\\Users\\Books.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:01:58.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Logins.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Logins.aspx.cs",
+              "RelativeDocumentMoniker": "KitapEvi\\Users\\Logins.aspx.cs",
+              "ToolTip": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Logins.aspx.cs",
+              "RelativeToolTip": "KitapEvi\\Users\\Logins.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwDwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:16:41.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carts.aspx",
+              "DocumentMoniker": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Carts.aspx",
+              "RelativeDocumentMoniker": "KitapEvi\\Users\\Carts.aspx",
+              "ToolTip": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Carts.aspx",
+              "RelativeToolTip": "KitapEvi\\Users\\Carts.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-10T08:43:52.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profiles.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Profiles.aspx.cs",
+              "RelativeDocumentMoniker": "KitapEvi\\Users\\Profiles.aspx.cs",
+              "ToolTip": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Users\\Profiles.aspx.cs",
+              "RelativeToolTip": "KitapEvi\\Users\\Profiles.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:59:08.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Web.config",
+              "RelativeDocumentMoniker": "KitapEvi\\Web.config",
+              "ToolTip": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r\\KitapEvi\\KitapEvi\\Web.config",
+              "RelativeToolTip": "KitapEvi\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-10T06:52:56.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\KitapEvi\\KitapEvi\\KitapEvi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80174DA8-2F31-4999-92A3-CDA9ECACAD1E}|KitapEvi\\KitapEvi.csproj|c:\\users\\sjori\\onedrive\\masa\u00FCst\u00FC\\kitapevi\\kitapevi\\kitapevi\\kitapevi\\admin\\book.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80174DA8-2F31-4999-92A3-CDA9ECACAD1E}|KitapEvi\\KitapEvi.csproj|solutionrelative:kitapevi\\admin\\book.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80174DA8-2F31-4999-92A3-CDA9ECACAD1E}|KitapEvi\\KitapEvi.csproj|C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\KitapEvi\\KitapEvi\\KitapEvi\\kitapevi\\admin\\book.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80174DA8-2F31-4999-92A3-CDA9ECACAD1E}|KitapEvi\\KitapEvi.csproj|solutionrelative:kitapevi\\admin\\book.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\KitapEvi\\KitapEvi\\KitapEvi\\KitapEvi\\Admin\\Book.aspx.cs",
+              "RelativeDocumentMoniker": "KitapEvi\\Admin\\Book.aspx.cs",
+              "ToolTip": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\KitapEvi\\KitapEvi\\KitapEvi\\KitapEvi\\Admin\\Book.aspx.cs",
+              "RelativeToolTip": "KitapEvi\\Admin\\Book.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:48:44.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.aspx",
+              "DocumentMoniker": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\KitapEvi\\KitapEvi\\KitapEvi\\KitapEvi\\Admin\\Book.aspx",
+              "RelativeDocumentMoniker": "KitapEvi\\Admin\\Book.aspx",
+              "ToolTip": "C:\\Users\\sjori\\OneDrive\\Masa\u00FCst\u00FC\\KitapEvi\\KitapEvi\\KitapEvi\\KitapEvi\\Admin\\Book.aspx",
+              "RelativeToolTip": "KitapEvi\\Admin\\Book.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T12:48:04.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
